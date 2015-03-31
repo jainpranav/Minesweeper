@@ -14,7 +14,7 @@ Minesweeper is a game written in Java by Pranav Jain
 ##Features :
 
  - Written in uncomplicated Java
- - Uses Design Patterns ( namely `MVC Pattern` )
+ - Uses Design Patterns ( namely [`MVC Pattern`] (http://programmers.stackexchange.com/questions/127624/what-is-mvc-really) )
  - Code is highly `Modularized`
  - Abstraction Maintained
  - Readability due to `inline comments`
