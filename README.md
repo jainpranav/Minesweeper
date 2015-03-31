@@ -21,7 +21,7 @@ Minesweeper is a game written in Java by Pranav Jain
 
 ## How to Play ?
 
-Download the jar file [placeholder]
+Download the [Pre-Release Version] (https://github.com/jainpranav/Minesweeper/releases/tag/1.0)
 
 ## How to Use The Code From source ?
 ```bash
